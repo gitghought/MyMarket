@@ -3,22 +3,42 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" timestamp="1511170211431">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+        <mark key="^" line="29" column="38" />
+      </file>
       <file name="/Dummy.txt" timestamp="1510973715277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/service/MyIntentService.java" timestamp="1511168829746">
-        <mark key="[" line="79" column="8" />
-        <mark key="]" line="72" column="35" />
-        <mark key="." line="72" column="35" />
-        <mark key="^" line="72" column="35" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/cp/MyContentProvider.java" timestamp="1511170290036">
+        <mark key="[" line="7" column="56" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
-      <file name="F:/Android_Project/MyServiceBroad/app/src/main/res/layout/layout_listview_item.xml" timestamp="1510969699968">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="7" column="31" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/obj/Contact.java" timestamp="1511168961493">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+      </file>
+      <file name="F:/Android_Project/MyProj/app/src/main/res/layout/fragment_login.xml" timestamp="1511169399397">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="F:/Android_Project/MyProj/app/src/main/res/layout/activity_main.xml" timestamp="1511169340450">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/adapter/MyAdapter.java" timestamp="1510969789962">
         <mark key="'" line="30" column="29" />
@@ -27,7 +47,32 @@
         <mark key="." line="42" column="46" />
         <mark key="^" line="42" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1510969514653">
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/fragment/LoginFragment.java" timestamp="1511169857534">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="93" column="88" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/service/MyIntentService.java" timestamp="1511170019263">
+        <mark key="[" line="116" column="44" />
+        <mark key="]" line="117" column="26" />
+        <mark key="." line="117" column="26" />
+        <mark key="^" line="117" column="26" />
+      </file>
+      <file name="F:/Android_Project/MyServiceBroad/app/src/main/res/layout/layout_listview_item.xml" timestamp="1510969699968">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/MainActivity.java" timestamp="1511169927390">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="9" />
+        <mark key="." line="31" column="9" />
+        <mark key="^" line="31" column="9" />
+      </file>
+      <file name="/fragment.java" timestamp="1511170041844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/MainActivity.java" timestamp="1510970292934">
@@ -44,43 +89,47 @@
       <jump line="26" column="0" filename="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/MainActivity.java" />
       <jump line="23" column="29" filename="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/adapter/MyAdapter.java" />
       <jump line="24" column="27" filename="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/MainActivity.java" />
+      <jump line="9" column="0" filename="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/MainActivity.java" />
+      <jump line="8" column="0" filename="F:/Android_Project/MyProj/app/src/main/res/layout/activity_main.xml" />
+      <jump line="29" column="18" filename="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" />
+      <jump line="14" column="31" filename="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>param1, param2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>param1, param2</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZUFjdGlvbkJheihwYXJhbTEsIHBhcmFtMik7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogbXkgY29kZSBiZWdpbiBnaAogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID0gImNvbS5leGFtcGxlLm15cHJvai5zZXJ2aWNlLmFjdGlvbi5CQVoiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEFDVElPTl9GT08uZXF1YWxzKGFjdGlvbikpIHsKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBwYXJhbTEgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoRVhUUkFfUEFSQU0xKTsKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBwYXJhbTIgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoRVhUUkFfUEFSQU0yKTsKICAgICAgICAgICAgICAgIGhhbmRsZUFjdGlvbkZvbyhwYXJhbTEsIHBhcmFtMik7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoQUNUSU9OX0JBWi5lcXVhbHMoYWN0aW9uKSkgewogICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHBhcmFtMSA9IGludGVudC5nZXRTdHJpbmdFeHRyYShFWFRSQV9QQVJBTTEpOwogICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHBhcmFtMiA9IGludGVudC5nZXRTdHJpbmdFeHRyYShFWFRSQV9QQVJBTTIpOwogICAgICAgICAgICAgICAgaGFuZGxlQWN0aW9uQmF6KHBhcmFtMSwgcGFyYW0yKTsKICAgICAgICAgICAgfSBlbHNl</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxjaSBzdGF0aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxjaSBzdGF0aQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU3RhcnRzIHRoaXMgc2VydmljZSB0byBwZXJmb3JtIGFjdGlvbiBCYXogd2l0aCB0aGUgZ2l2ZW4gcGFyYW1ldGVycy4gSWYKICAgICAqIHRoZSBzZXJ2aWNlIGlzIGFscmVhZHkgcGVyZm9ybWluZyBhIHRhc2sgdGhpcyBhY3Rpb24gd2lsbCBiZSBxdWV1ZWQuCiAgICAgKgogICAgICogQHNlZSBJbnRlbnRTZXJ2aWNlCiAgICAgKi8KICAgIC8vIFRPRE86IEN1c3RvbWl6ZSBoZWxwZXIgbWV0aG9kCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnRBY3Rpb25CYXooQ29udGV4dCBjb250ZXh0LCBTdHJpbmcgcGFyYW0xLCBTdHJpbmcgcGFyYW0yKSB7CiAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoY29udGV4dCwgTXlJbnRlbnRTZXJ2aWNlLmNsYXNzKTsKICAgICAgICBpbnRlbnQuc2V0QWN0aW9uKEFDVElPTl9CQVopOwogICAgICAgIGludGVudC5wdXRFeHRyYShFWFRSQV9QQVJBTTEsIHBhcmFtMSk7CiAgICAgICAgaW50ZW50LnB1dEV4dHJhKEVYVFJBX1BBUkFNMiwgcGFyYW0yKTsKICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShpbnRlbnQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxjaSBzdGF0aWMK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqIFN0YXJ0cyB0aGlzIHNlcnZpY2UgdG8gcGVyZm9ybSBhY3Rpb24gRm9vIHdpdGggdGhlIGdpdmVuIHBhcmFtZXRlcnMuIElmCiAgICAgKiB0aGUgc2VydmljZSBpcyBhbHJlYWR5IHBlcmZvcm1pbmcgYSB0YXNrIHRoaXMgYWN0aW9uIHdpbGwgYmUgcXVldWVkLgogICAgICoKICAgICAqIEBzZWUgSW50ZW50U2VydmljZQogICAgICovCiAgICAvLyBUT0RPOiBDdXN0b21pemUgaGVscGVyIG1ldGhvZAogICAgcHVibGljIHN0YXRpYyB2b2lkIHN0YXJ0QWN0aW9uRm9vKENvbnRleHQgY29udGV4dCwgU3RyaW5nIHBhcmFtMSwgU3RyaW5nIHBhcmFtMikgewogICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KGNvbnRleHQsIE15SW50ZW50U2VydmljZS5jbGFzcyk7CiAgICAgICAgaW50ZW50LnNldEFjdGlvbihBQ1RJT05fRk9PKTsKICAgICAgICBpbnRlbnQucHV0RXh0cmEoRVhUUkFfUEFSQU0xLCBwYXJhbTEpOwogICAgICAgIGludGVudC5wdXRFeHRyYShFWFRSQV9QQVJBTTIsIHBhcmFtMik7CiAgICAgICAgY29udGV4dC5zdGFydFNlcnZpY2UoaW50ZW50KTsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJpbmQK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAvLyBUT0RPOiBSZW5hbWUgcGFyYW1ldGVycwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEVYVFJBX1BBUkFNMSA9ICJjb20uZXhhbXBsZS5teXNlcnZpY2Vicm9hZC5zZXJ2aWNlLmV4dHJhLlBBUkFNMSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhUUkFfUEFSQU0yID0gImNvbS5leGFtcGxlLm15c2VydmljZWJyb2FkLnNlcnZpY2UuZXh0cmEuUEFSQU0yIjs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25CaW5kKGludGVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdldEFjdGl2aXR5KCkudW5iaW5kU2VydmljZSh0aGlzLmNvbm4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -93,10 +142,12 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>q</entry>
-        <entry>wq</entry>
         <entry>sw</entry>
         <entry>s</entry>
+        <entry>q</entry>
+        <entry>116t.</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
