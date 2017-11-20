@@ -3,23 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" timestamp="1511170211431">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-        <mark key="^" line="29" column="38" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" timestamp="1511181772864">
+        <mark key="'" line="16" column="31" />
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1510973715277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/cp/MyContentProvider.java" timestamp="1511181297430">
-        <mark key="[" line="7" column="56" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/cp/MyContentProvider.java" timestamp="1511181876429">
+        <mark key="[" line="59" column="101" />
+        <mark key="]" line="59" column="107" />
+        <mark key="^" line="59" column="107" />
+        <mark key="." line="59" column="107" />
       </file>
       <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/obj/Contact.java" timestamp="1511168961493">
         <mark key="[" line="8" column="24" />
@@ -40,6 +40,7 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
+      <file name="F:/Android_Project/MyProj/app/src/main/AndroidManifest.xml" timestamp="1511181418941" />
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/adapter/MyAdapter.java" timestamp="1510969789962">
         <mark key="'" line="30" column="29" />
         <mark key="[" line="41" column="69" />
@@ -53,11 +54,10 @@
         <mark key="^" line="93" column="88" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/service/MyIntentService.java" timestamp="1511170019263">
-        <mark key="[" line="116" column="44" />
-        <mark key="]" line="117" column="26" />
-        <mark key="." line="117" column="26" />
-        <mark key="^" line="117" column="26" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/service/MyIntentService.java" timestamp="1511181981227">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="21" />
+        <mark key="." line="102" column="65" />
       </file>
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/res/layout/layout_listview_item.xml" timestamp="1510969699968">
         <mark key="[" line="6" column="13" />
@@ -96,40 +96,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogbXkgY29kZSBiZWdpbiBnaAogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxjaSBzdGF0aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxjaSBzdGF0aQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxjaSBzdGF0aWMK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbnRlbnRSZXNvbHZlciBjcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJpbmQK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdGhpcyB0byBoYW5kbGUgcmVxdWVzdHMgdG8gaW5zZXJ0IGEgbmV3IHJvdy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25CaW5kKGludGVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdldEFjdGl2aXR5KCkudW5iaW5kU2VydmljZSh0aGlzLmNvbm4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdGhpcyB0byBpbml0aWFsaXplIHlvdXIgY29udGVudCBwcm92aWRlciBvbiBzdGFydHVwLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -143,11 +143,12 @@
       <history-search />
       <history-cmd>
         <entry>sw</entry>
-        <entry>s</entry>
-        <entry>q</entry>
         <entry>116t.</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz4=</entry>
+        <entry>s</entry>
+        <entry>ew</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -168,6 +169,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
