@@ -3,23 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" timestamp="1511181772864">
-        <mark key="'" line="16" column="31" />
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="43" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" timestamp="1511182940833">
+        <mark key="'" line="17" column="91" />
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="12" column="47" />
       </file>
       <file name="/Dummy.txt" timestamp="1510973715277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/cp/MyContentProvider.java" timestamp="1511181876429">
-        <mark key="[" line="59" column="101" />
-        <mark key="]" line="59" column="107" />
-        <mark key="^" line="59" column="107" />
-        <mark key="." line="59" column="107" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/cp/MyContentProvider.java" timestamp="1511182682456">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="76" column="94" />
+        <mark key="]" line="76" column="94" />
+        <mark key="." line="76" column="94" />
+        <mark key="^" line="76" column="65" />
       </file>
       <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/obj/Contact.java" timestamp="1511168961493">
         <mark key="[" line="8" column="24" />
@@ -41,6 +42,12 @@
         <mark key="^" line="12" column="36" />
       </file>
       <file name="F:/Android_Project/MyProj/app/src/main/AndroidManifest.xml" timestamp="1511181418941" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/utility/MyHttpUtility.java" timestamp="1511183176784">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/adapter/MyAdapter.java" timestamp="1510969789962">
         <mark key="'" line="30" column="29" />
         <mark key="[" line="41" column="69" />
@@ -54,10 +61,11 @@
         <mark key="^" line="93" column="88" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/service/MyIntentService.java" timestamp="1511181981227">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="21" />
-        <mark key="." line="102" column="65" />
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/service/MyIntentService.java" timestamp="1511183196052">
+        <mark key="[" line="107" column="55" />
+        <mark key="]" line="107" column="58" />
+        <mark key="." line="107" column="58" />
+        <mark key="^" line="107" column="58" />
       </file>
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/res/layout/layout_listview_item.xml" timestamp="1510969699968">
         <mark key="[" line="6" column="13" />
@@ -65,14 +73,14 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/MainActivity.java" timestamp="1511169927390">
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/MainActivity.java" timestamp="1511183127638">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="9" />
-        <mark key="." line="31" column="9" />
-        <mark key="^" line="31" column="9" />
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="37" column="7" />
+        <mark key="^" line="37" column="7" />
+        <mark key="." line="37" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1511170041844">
+      <file name="/fragment.java" timestamp="1511183134097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/MainActivity.java" timestamp="1510970292934">
@@ -93,43 +101,46 @@
       <jump line="8" column="0" filename="F:/Android_Project/MyProj/app/src/main/res/layout/activity_main.xml" />
       <jump line="29" column="18" filename="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" />
       <jump line="14" column="31" filename="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" />
+      <jump line="59" column="0" filename="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/cp/MyContentProvider.java" />
+      <jump line="43" column="3" filename="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" />
+      <jump line="18" column="91" filename="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>extends HttpURLConnection</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>extends HttpURLConnection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogbXkgY29kZSBiZWdpbiBnaAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3IuaW5zZXJ0KFVyaS5wYXJzZSggTXlDb250ZW50UHJvdmlkZXIuVVJJX0NPTlRBQ1QpICwgbnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZGlzY29ubmVjdCgpIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiB1c2luZ1Byb3h5KCkgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNvbm5lY3QoKSB0aHJvd3MgSU9FeGNlcHRpb24gewoKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbnRlbnRSZXNvbHZlciBjcjsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0U2VydmljZShpbnRlbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERST1BfVEFCTEVfVVNFUiA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdGhpcyB0byBoYW5kbGUgcmVxdWVzdHMgdG8gaW5zZXJ0IGEgbmV3IHJvdy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRyb3AgdGFibGUgaWYgZXhpc3RzICIgKyBUQUJMRV9OQU1FX0NPTlRBQ1Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxjaSBzdGF0aWMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdGhpcyB0byBpbml0aWFsaXplIHlvdXIgY29udGVudCBwcm92aWRlciBvbiBzdGFydHVwLgo=</text>
+        <text encoding="base64">ICAgIFZpZXcuT25DbGlja0xpc3Rlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -146,9 +157,10 @@
         <entry>116t.</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz4=</entry>
-        <entry>s</entry>
         <entry>ew</entry>
         <entry>q</entry>
+        <entry>32d</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
