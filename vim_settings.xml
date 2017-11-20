@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" timestamp="1511182940833">
