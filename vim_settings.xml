@@ -8,6 +8,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/service/MyIntentService.java" timestamp="1511168829746">
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="72" column="35" />
+        <mark key="." line="72" column="35" />
+        <mark key="^" line="72" column="35" />
+      </file>
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/res/layout/layout_listview_item.xml" timestamp="1510969699968">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="7" column="31" />
@@ -41,43 +47,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWFzdGVyIGZpbmUg</text>
+        <text>param1, param2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFzdGVyIGZpbmUg</text>
+        <text>param1, param2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidG5TZWxlY3QgPSAoQnV0dG9uKSBmaW5kVmlld0J5SWQoUi5pZC5idG5fc2VsZWN0KTsKICAgICAgICBidG5TZWxlY3Quc2V0T25DbGlja0xpc3RlbmVyKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZUFjdGlvbkJheihwYXJhbTEsIHBhcmFtMik7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgID0gImNvbS5leGFtcGxlLm15cHJvai5zZXJ2aWNlLmFjdGlvbi5CQVoiOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKEFDVElPTl9GT08uZXF1YWxzKGFjdGlvbikpIHsKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBwYXJhbTEgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoRVhUUkFfUEFSQU0xKTsKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBwYXJhbTIgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoRVhUUkFfUEFSQU0yKTsKICAgICAgICAgICAgICAgIGhhbmRsZUFjdGlvbkZvbyhwYXJhbTEsIHBhcmFtMik7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoQUNUSU9OX0JBWi5lcXVhbHMoYWN0aW9uKSkgewogICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHBhcmFtMSA9IGludGVudC5nZXRTdHJpbmdFeHRyYShFWFRSQV9QQVJBTTEpOwogICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHBhcmFtMiA9IGludGVudC5nZXRTdHJpbmdFeHRyYShFWFRSQV9QQVJBTTIpOwogICAgICAgICAgICAgICAgaGFuZGxlQWN0aW9uQmF6KHBhcmFtMSwgcGFyYW0yKTsKICAgICAgICAgICAgfSBlbHNl</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogU3RhcnRzIHRoaXMgc2VydmljZSB0byBwZXJmb3JtIGFjdGlvbiBCYXogd2l0aCB0aGUgZ2l2ZW4gcGFyYW1ldGVycy4gSWYKICAgICAqIHRoZSBzZXJ2aWNlIGlzIGFscmVhZHkgcGVyZm9ybWluZyBhIHRhc2sgdGhpcyBhY3Rpb24gd2lsbCBiZSBxdWV1ZWQuCiAgICAgKgogICAgICogQHNlZSBJbnRlbnRTZXJ2aWNlCiAgICAgKi8KICAgIC8vIFRPRE86IEN1c3RvbWl6ZSBoZWxwZXIgbWV0aG9kCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnRBY3Rpb25CYXooQ29udGV4dCBjb250ZXh0LCBTdHJpbmcgcGFyYW0xLCBTdHJpbmcgcGFyYW0yKSB7CiAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoY29udGV4dCwgTXlJbnRlbnRTZXJ2aWNlLmNsYXNzKTsKICAgICAgICBpbnRlbnQuc2V0QWN0aW9uKEFDVElPTl9CQVopOwogICAgICAgIGludGVudC5wdXRFeHRyYShFWFRSQV9QQVJBTTEsIHBhcmFtMSk7CiAgICAgICAgaW50ZW50LnB1dEV4dHJhKEVYVFJBX1BBUkFNMiwgcGFyYW0yKTsKICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShpbnRlbnQpOwogICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAvKioKICAgICAqIFN0YXJ0cyB0aGlzIHNlcnZpY2UgdG8gcGVyZm9ybSBhY3Rpb24gRm9vIHdpdGggdGhlIGdpdmVuIHBhcmFtZXRlcnMuIElmCiAgICAgKiB0aGUgc2VydmljZSBpcyBhbHJlYWR5IHBlcmZvcm1pbmcgYSB0YXNrIHRoaXMgYWN0aW9uIHdpbGwgYmUgcXVldWVkLgogICAgICoKICAgICAqIEBzZWUgSW50ZW50U2VydmljZQogICAgICovCiAgICAvLyBUT0RPOiBDdXN0b21pemUgaGVscGVyIG1ldGhvZAogICAgcHVibGljIHN0YXRpYyB2b2lkIHN0YXJ0QWN0aW9uRm9vKENvbnRleHQgY29udGV4dCwgU3RyaW5nIHBhcmFtMSwgU3RyaW5nIHBhcmFtMikgewogICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KGNvbnRleHQsIE15SW50ZW50U2VydmljZS5jbGFzcyk7CiAgICAgICAgaW50ZW50LnNldEFjdGlvbihBQ1RJT05fRk9PKTsKICAgICAgICBpbnRlbnQucHV0RXh0cmEoRVhUUkFfUEFSQU0xLCBwYXJhbTEpOwogICAgICAgIGludGVudC5wdXRFeHRyYShFWFRSQV9QQVJBTTIsIHBhcmFtMik7CiAgICAgICAgY29udGV4dC5zdGFydFNlcnZpY2UoaW50ZW50KTsKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAvLyBUT0RPOiBSZW5hbWUgcGFyYW1ldGVycwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEVYVFJBX1BBUkFNMSA9ICJjb20uZXhhbXBsZS5teXNlcnZpY2Vicm9hZC5zZXJ2aWNlLmV4dHJhLlBBUkFNMSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhUUkFfUEFSQU0yID0gImNvbS5leGFtcGxlLm15c2VydmljZWJyb2FkLnNlcnZpY2UuZXh0cmEuUEFSQU0yIjs=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>// TODO: Rename actions, choose action names that describe tasks that this
-    // IntentService can perform, e.g. ACTION_FETCH_NEW_ITEMS
-    private static final String ACTION_FOO = &quot;com.example.myservicebroad.service.action.FOO&quot;;
-    private static final String ACTION_BAZ = &quot;com.example.myservicebroad.service.action.BAZ&quot;;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -93,6 +96,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>sw</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
