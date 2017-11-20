@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/sql/MySqlOpenHelp.java" timestamp="1511170211431">
@@ -15,7 +15,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/cp/MyContentProvider.java" timestamp="1511170290036">
+      <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/cp/MyContentProvider.java" timestamp="1511181297430">
         <mark key="[" line="7" column="56" />
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
