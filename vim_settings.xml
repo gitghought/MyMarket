@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1510973715277">
@@ -8,7 +8,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="F:/Android_Project/MyServiceBroad/app/src/main/java/com/example/myservicebroad/service/MyIntentService.java" timestamp="1510970876282" />
       <file name="F:/Android_Project/MyServiceBroad/app/src/main/res/layout/layout_listview_item.xml" timestamp="1510969699968">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="7" column="31" />
