@@ -41,7 +41,6 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="F:/Android_Project/MyProj/app/src/main/AndroidManifest.xml" timestamp="1511181418941" />
       <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/utility/MyHttpUtility.java" timestamp="1511183176784">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="8" column="3" />
@@ -60,6 +59,12 @@
         <mark key="]" line="119" column="0" />
         <mark key="^" line="93" column="88" />
         <mark key="." line="119" column="0" />
+      </file>
+      <file name="F:/Android_Project/MyApplication4/app/src/main/java/com/example/myapplication/adapter/MyAdapter.java" timestamp="1511226204669">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="F:/Android_Project/MyProj/app/src/main/java/com/example/myproj/service/MyIntentService.java" timestamp="1511183196052">
         <mark key="[" line="107" column="55" />
